@@ -1,0 +1,3 @@
+[submodule "dji-firmware-tools"]
+	path = dji-firmware-tools
+	url = https://github.com/o-gs/dji-firmware-tools
