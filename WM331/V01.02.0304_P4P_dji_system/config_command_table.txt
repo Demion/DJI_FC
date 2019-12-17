@@ -1,0 +1,99 @@
+0   Hello
+1   Sample Calib Progress
+2   Motor factory test
+3   Motor0 user test
+4   Motor1 user test
+5   Motor2 user test
+6   Motor3 user test
+7   Motor4 user test
+8   Motor5 user test
+9   Motor6 user test
+10  Motor7 user test
+11  Reboot
+12  set unicore mp
+13  set unicore session
+14  imu temp cali 00
+15  imu temp cali 01
+16  imu temp cali 02
+17  imu base cali 00
+18  imu base cali 01
+19  imu base cali 02
+20  imu multi side cali
+21  compass start cali 00
+22  compass start cali 01
+23  compass start cali 02
+24  compass exit cali 00
+25  compass exit cali 01
+26  compass exit cali 02
+27  start compass frame cali
+28  exit compass frame cali
+29  start compass cross cali
+30  exit compass cross cali
+31  set wm220 mag cur cali v6
+32  reset mag cur cali
+33  user config module_0
+34  user config module_1
+35  user config module_2
+36  user config module_3
+37  user config module_4
+38  user config module_5
+39  user config module_6
+40  user config module_7
+41  user config module_8
+42  user config module_9
+43  user config module_10
+44  user config module_11
+45  user config module_12
+46  user config module_13
+47  user config module_14
+48  user config module_15
+49  user config module_16
+50  user config module_17
+51  user config module_18
+52  user config module_19
+53  user config module_20
+54  user config module_21
+55  user config module_22
+56  user config module_23
+57  user config module_24
+58  user config module_25
+59  user config module_26
+60  user config module_27
+61  user config module_28
+62  user config module_29
+63  reset user config progress
+64  reset statistical info
+65  pc_set_save_current_statistical_info
+66  enter sd card mode
+67  pc_reset_all_test
+68  format recorder
+69  pc_unlock_device
+70  pc_lock_device
+71  print open table
+72  relog recorder config
+73  RC_freq_bind_cmd_REQ
+74  RC_freq_bind_cmd_START
+75  RC_freq_bind_cmd_CANCEL
+76  pc_injuect_propulsion_fault1
+77  pc_injuect_propulsion_fault2
+78  pc_injuect_propulsion_fault9
+79  pc_inject_esc_fault
+80  esc_cali_start_ALL
+81  esc_cali_start_1
+82  esc_cali_start_2
+83  esc_cali_start_3
+84  esc_cali_start_4
+85  esc_cali_start_5
+86  esc_cali_start_6
+87  esc_cali_start_7
+88  esc_cali_start_8
+89  esc_cali_1
+90  esc_cali_2
+91  esc_cali_exit
+92  set_config_group-WIFI
+93  set_config_group-NORMAL
+94  ctrl_all_led_off
+95  ctrl_all_led_on
+96  pc_start_rc_cali_start
+97  pc_start_rc_cali_exit
+98  pc_start_rc_cali_cancle

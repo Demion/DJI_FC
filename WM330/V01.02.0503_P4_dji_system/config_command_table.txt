@@ -1,0 +1,69 @@
+0   Hello
+1   Sample Calib Progress
+2   Motor factory test
+3   Motor0 user test
+4   Motor1 user test
+5   Motor2 user test
+6   Motor3 user test
+7   Motor4 user test
+8   Motor5 user test
+9   Motor6 user test
+10  Motor7 user test
+11  Reboot
+12  set unicore mp
+13  set unicore session
+14  imu temp cali 00
+15  imu temp cali 01
+16  imu temp cali 02
+17  imu base cali 00
+18  imu base cali 01
+19  imu base cali 02
+20  compass start cali 00
+21  compass start cali 01
+22  compass start cali 02
+23  compass exit cali 00
+24  compass exit cali 01
+25  compass exit cali 02
+26  start compass frame cali
+27  exit compass frame cali
+28  start compass cross cali
+29  exit compass cross cali
+30  user config module_0
+31  user config module_1
+32  user config module_2
+33  user config module_3
+34  user config module_4
+35  user config module_5
+36  user config module_6
+37  user config module_7
+38  user config module_8
+39  user config module_9
+40  user config module_10
+41  user config module_11
+42  user config module_12
+43  user config module_13
+44  user config module_14
+45  user config module_15
+46  user config module_16
+47  user config module_17
+48  user config module_18
+49  user config module_19
+50  user config module_20
+51  user config module_21
+52  user config module_22
+53  user config module_23
+54  user config module_24
+55  user config module_25
+56  user config module_26
+57  user config module_27
+58  user config module_28
+59  user config module_29
+60  reset user config progress
+61  reset statistical info
+62  enter sd card mode
+63  pc_reset_all_test
+64  format recorder
+65  pc_unlock_device
+66  pc_lock_device
+67  set_db_type(DJI)
+68  set_db_type(AIRMAP)
